@@ -2,22 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "salut"
-      "completed": false
+      "title": "hello"
     }
   ],
-  "posts": [
-    {
-      "id": 2,
-      "title": "vien"
-      "completed": false
-    }
-  ],
-  "posts": [
-    {
-      "id": 3,
-      "title": "test"
-      "completed": true
-    }
-  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
